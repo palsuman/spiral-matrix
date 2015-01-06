@@ -27,11 +27,6 @@ Build
 
 mvn clean install package && cd target && java -jar spiral-matrix-1.0.jar && cd ..
 
-Build Status
-------------
-[![Build Status](https://travis-ci.org/palsuman/Project-Euler.svg?branch=master)](https://travis-ci.org/palsuman/Project-Euler)
-[![Coverage Status](https://img.shields.io/coveralls/palsuman/Project-Euler.svg)](https://coveralls.io/r/palsuman/Project-Euler?branch=master)
-
 FAQ
 ---
 
