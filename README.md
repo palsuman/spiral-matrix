@@ -1,2 +1,2 @@
-sprial-matrix
+spiral-matrix
 =============
